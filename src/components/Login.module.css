@@ -1,0 +1,16 @@
+.principal {
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  top: 30vh;
+  transform: translate(-50%, -50%);
+}
+
+.img {
+  background: url(../images/transparent_2024-09-11T12-17-09.png)
+  no-repeat;
+  background-size: contain;
+  background-position: center center;
+  height: 150px;
+  
+}
